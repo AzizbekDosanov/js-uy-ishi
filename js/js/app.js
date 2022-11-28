@@ -3,9 +3,9 @@ let surname = prompt("Familiyangizni  kiriting")
 let age = prompt("Yoshingizni kiriting")
 
 let obj = {
-    name: "azizbek",
-    surname: "dosanov",
-    age: "17",
+    name: "name",
+    surname: "surname",
+    age: "age",
 }
 
 if (age > 16) {
