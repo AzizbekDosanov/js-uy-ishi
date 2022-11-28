@@ -28,3 +28,8 @@ if (color === "yashil") {
     alert("Noto'g'ri rang kiritildi")
 }
 
+let number = 10;
+while (number <= 7) {
+    if (number % 2 === 0) console.log(number);
+    number++;
+}
