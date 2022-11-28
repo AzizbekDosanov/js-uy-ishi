@@ -10,7 +10,7 @@ let obj = {
 
 if (age > 16) {
     alert("institutda o'qiydi")
-} else if (age >= 16) {
+} else if (age = 16) {
     alert("maktabni tugatgan")
 } else {
     alert("maktabga bor!")
